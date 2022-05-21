@@ -1,16 +1,4 @@
-# My520
-520表白神器
-@[TOC](目录)
-
-## 一：项目展示
-项目效果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200625202043188.gif)
-在线演示：
-[https://xuyuanzhi051.github.io/My520/](https://xuyuanzhi051.github.io/My520/)
-
-
-## 二：使用方法
-使用方法：下载代码包，自行替换文本和图片即可。
+# My520-for-Ning
 项目源码：[https://github.com/xuyuanzhi051/My520](https://github.com/xuyuanzhi051/My520)
 **定制：**
 **1. 主页 index.html**
@@ -32,4 +20,4 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200625203108601.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0ODY3MzQw,size_16,color_FFFFFF,t_70)
 项目的主页默认是index.html，项目后面就不用加上文件名了
 如果是别的名字，项目后面需要加上别的名字。
-# My520-for-Ning
+
